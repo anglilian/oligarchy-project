@@ -8,14 +8,14 @@
     "text": "Ang Li-Lian"
   },
   "text": {
-    "more": "This network is a combination of Quien es Quien 1961 and ANDI name list.",
-    "intro": "This network is a combination of Quien es Quien 1961 and ANDI name list.",
-    "title": "Project Oligarchy"
+    "more": "Oligarchy Project",
+    "intro": "Oligarchy Project",
+    "title": "Oligarchy Project"
   },
   "legend": {
-    "edgeLabel": "connections",
+    "edgeLabel": "Relationship",
     "colorLabel": "Modularity Class",
-    "nodeLabel": "people"
+    "nodeLabel": "People"
   },
   "features": {
     "search": true,
@@ -42,7 +42,7 @@
     "graphProperties": {
       "maxEdgeSize": 0.1,
       "minEdgeSize": 0.001,
-      "minNodeSize": 1,
+      "minNodeSize": 0.5,
       "maxNodeSize": 7
     },
     "mouseProperties": {
