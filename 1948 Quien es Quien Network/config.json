@@ -8,19 +8,19 @@
     "text": "Ang Li-Lian"
   },
   "text": {
-    "more": "Oligarchy Project - 1948 Quien es Quien",
-    "intro": "Oligarchy Project - 1948 Quien es Quien",
-    "title": "Oligarchy Project"
+    "more": "1948 Quien es Quien",
+    "intro": "1948 Quien es Quien",
+    "title": "Oligarchy Project (1948 Quien es Quien)"
   },
   "legend": {
-    "edgeLabel": "Relationship",
+    "edgeLabel": "Connection",
     "colorLabel": "Modularity Class",
     "nodeLabel": "People"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": "Modularity Class",
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.1,
-      "minEdgeSize": 0.001,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },

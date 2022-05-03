@@ -8,12 +8,12 @@
     "text": "Ang Li-Lian"
   },
   "text": {
-    "more": "Oligarchy Project",
-    "intro": "Oligarchy Project",
+    "more": "Oligarchy Project ",
+    "intro": "Oligarchy Project ",
     "title": "Oligarchy Project"
   },
   "legend": {
-    "edgeLabel": "Relationship",
+    "edgeLabel": "Connection",
     "colorLabel": "Modularity Class",
     "nodeLabel": "People"
   },
@@ -42,7 +42,7 @@
     "graphProperties": {
       "maxEdgeSize": 0.1,
       "minEdgeSize": 0.001,
-      "minNodeSize": 0.5,
+      "minNodeSize": 1,
       "maxNodeSize": 7
     },
     "mouseProperties": {

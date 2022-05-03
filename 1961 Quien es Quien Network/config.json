@@ -8,12 +8,12 @@
     "text": "Ang Li-Lian"
   },
   "text": {
-    "more": "Oligarchy Project - 1961 Quien es Quien",
-    "intro": "Oligarchy Project - 1961 Quien es Quien",
-    "title": "Oligarchy Project"
+    "more": "Oligarchy Project [Quien es Quien 1961]",
+    "intro": "Oligarchy Project [Quien es Quien 1961]",
+    "title": "Oligarchy Project [Quien es Quien 1961]"
   },
   "legend": {
-    "edgeLabel": "Relationship",
+    "edgeLabel": "Connection",
     "colorLabel": "Modularity Class",
     "nodeLabel": "People"
   },
